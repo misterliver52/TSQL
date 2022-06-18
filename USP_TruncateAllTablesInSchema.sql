@@ -9,8 +9,6 @@ GO
 *                                              *
 * Created by Benjamin Smith  2021-08-26        *
 * Truncate all tables in dbo schema            *
-* --based on content from                      * 
-* --https://stackoverflow.com/users/2617809/ben*
 ***********************************************/
 
 ALTER PROCEDURE [dbo].[USP_TruncateAllTablesInSchema]
